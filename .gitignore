@@ -1,0 +1,17 @@
+# Ambiente virtual Python
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Saída gerada (imagens e logs)
+saida/
+
+# Arquivos de sistema macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
